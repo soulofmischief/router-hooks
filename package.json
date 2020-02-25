@@ -6,9 +6,9 @@
     "@soulofmischief/strings": "^0.1.3",
     "nanoid": "^2.1.11"
   },
-  "name": "@soulofmischief/strings",
-  "description": "A collection of useful methods which operate on strings",
-  "version": "0.1.2",
+  "name": "@soulofmischief/router-hooks",
+  "description": "Convenience methods for routing web applications.",
+  "version": "0.0.1",
   "main": "lib",
   "devDependencies": {
     "@babel/core": "^7.8.4",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/soulofmischief/strings.git"
+    "url": "git+https://github.com/soulofmischief/router-hooks.git"
   },
   "keywords": [
     "strings"
@@ -31,7 +31,7 @@
   "author": "soulofmischief",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/soulofmischief/strings/issues"
+    "url": "https://github.com/soulofmischief/router-hooks/issues"
   },
-  "homepage": "https://github.com/soulofmischief/strings#readme"
+  "homepage": "https://github.com/soulofmischief/router-hooks#readme"
 }

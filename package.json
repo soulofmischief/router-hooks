@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@babel/plugin-proposal-export-namespace-from": "^7.8.3",
     "@soulofmischief/js-utils": "^0.5.3",
     "@soulofmischief/regex": "^0.1.2",
     "@soulofmischief/strings": "^0.1.3",

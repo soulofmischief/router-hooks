@@ -4,7 +4,7 @@
     "@soulofmischief/js-utils": "^0.5.3",
     "@soulofmischief/regex": "^0.1.2",
     "@soulofmischief/strings": "^0.1.3",
-    "nanoid": "^2.1.11"
+    "nanoid": "^3.1.31"
   },
   "name": "@soulofmischief/router-hooks",
   "description": "Convenience methods for routing web applications.",
